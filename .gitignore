@@ -1,11 +1,11 @@
-# Nodejs
-node_modules
+# Node.js
+/node_modules
 
 # npm
-package-lock.json
+/package-lock.json
 
-# environment variables
-.env
+# Environment variables
+/.env
 
-## dist
-dist
+# Dist directory
+/dist
