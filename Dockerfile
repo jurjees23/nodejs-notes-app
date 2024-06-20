@@ -16,7 +16,7 @@ COPY . .
 COPY .env ./
 
 # Expose the port
-EXPOSE 80
+EXPOSE 5005
 
 # Start the application
 CMD ["npm", "start"]
